@@ -1,0 +1,1 @@
+# Information about temperature file
